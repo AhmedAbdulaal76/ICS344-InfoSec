@@ -1,0 +1,5 @@
+options {
+    minimal-responses yes;
+};
+
+# reducing info shared in DNS queries

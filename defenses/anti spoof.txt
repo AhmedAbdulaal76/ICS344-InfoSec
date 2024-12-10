@@ -1,0 +1,2 @@
+## Randomize ports
+## Use DNSSEC, sign DNS records

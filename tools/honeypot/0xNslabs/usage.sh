@@ -1,0 +1,1 @@
+python3 dns.py --host 0.0.0.0 --port 5353

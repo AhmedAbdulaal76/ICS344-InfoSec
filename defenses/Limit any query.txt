@@ -1,0 +1,4 @@
+response-policy { zone "rpz"; };
+zone "rpz" { type master; file "/etc/bind/db.rpz"; };
+
+## in config

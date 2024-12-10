@@ -1,0 +1,5 @@
+rate-limit {
+    responses-per-second 5;
+};
+
+## in config file
