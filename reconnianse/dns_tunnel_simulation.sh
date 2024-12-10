@@ -1,0 +1,1 @@
+dig "testdata.ics344.com"  @10.0.2.5  

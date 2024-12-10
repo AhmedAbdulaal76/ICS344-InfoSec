@@ -1,0 +1,1 @@
+time bash -c 'for i in {1..500}; do dig ics344.com @10.0.2.5; done'

@@ -1,0 +1,1 @@
+time msfconsole -x "use auxiliary/scanner/dns/dns_amp; set RHOSTS 10.0.2.5; set THREADS 10; run; exit"
